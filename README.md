@@ -48,9 +48,9 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 **PROGRAM**
 
 
-Developed by:Abinaya A
+Developed by:BALAMURUGAN P
 
-RegisterNumber:212223040003
+RegisterNumber:24005335
 
 
 ```
